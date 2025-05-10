@@ -2,7 +2,7 @@
 - Mauricio Tomas Zalazar - [mauriciozalazar29](https://github.com/mauriciozalazar29)
 - Mariano Gabriel Gutierrez - [marianogutierrez2008](https://github.com/marianogutierrez2008)
 
-# Gestión de Productos - TP4 Programación Visual
+# Gestión de Productos - Descripción del proyecto
 La aplicación permite gestionar una lista de productos, ofreciendo las siguientes funcionalidades:
 
 - Agregar productos mediante un formulario.

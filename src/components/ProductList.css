@@ -1,0 +1,33 @@
+.product-list {
+  background-color: white;
+  padding: 2rem;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+}
+
+.product-list h2 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+  color: var(--secondary-color);
+}
+
+.product-list ul {
+  list-style: none;
+  padding: 0;
+}
+
+.product-list p {
+  text-align: center;
+  color: #2c3e50;
+  font-style: italic;
+  margin: 2rem 0;
+}
+
+/* Estilo para los elementos de la lista */
+@media (min-width: 768px) {
+  .product-list ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+  }
+}

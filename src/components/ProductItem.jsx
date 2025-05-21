@@ -1,3 +1,4 @@
+import './ProductItem.css'
 
 const ProductItem = ({ product, setEditingProduct, deleteProduct }) => {
   return (
